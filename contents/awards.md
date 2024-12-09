@@ -6,8 +6,6 @@
 
 - Outstanding Paper Award, Annual Academic Conference, Shanghai Society for Science of Science, 2023.
 
-- Outstanding Paper Award, Annual Academic Conference, Shanghai Society for Science of Science, 2023.
-
 - Outstanding Bachelor's Degree, Fujian China Normal University, 2022.
 
 - Excellent Student Leader, Fujian China Normal University, 2022.
