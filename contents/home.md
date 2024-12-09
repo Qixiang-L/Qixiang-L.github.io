@@ -1,8 +1,9 @@
 
 
-[![Qixiang-L](https://github.com/qixiang-L)](https://github.com/qixiang-L)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 I am currently pursuing a Master's degree in Economic Geography at East China Normal University in Shanghai. My research focuses on innovation and complex systems. 
+I am involved in the development of the website: Map of Global Innovation Sources (https://www.gisthinktank.com/)
 
 #### Email
 qixiang_li2020[at]163.com
