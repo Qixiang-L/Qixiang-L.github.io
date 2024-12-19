@@ -9,3 +9,5 @@
 - Outstanding Bachelor's Degree, Fujian Normal University, 2022.
 
 - Excellent Student Leader, Fujian Normal University, 2022.
+
+- Excellent Student Leader, Fujian Normal University, 2021.
