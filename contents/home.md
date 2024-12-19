@@ -2,15 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a Master's degree in Economic Geography at East China Normal University in Shanghai. My research focuses on innovation and complex systems. 
+I am involved in the development of the website: Map of Global Innovation Sources (https://www.gisthinktank.com/)
 
 #### Email
-sli[at]cumt.edu.cn
+qixiang_li2020[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S.,Economic geography and regional innovation, East China Normal University, 2022—2025 (expected).\
+B.S., Physical Geography and Resource Environment, Fujian Normal University, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Geography of Innovation, Mobility, Cities, Complex Networks.
 
