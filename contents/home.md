@@ -6,7 +6,7 @@ I am currently pursuing a Master's degree in Economic Geography at East China No
 I am involved in the development of the website: Map of Global Innovation Sources (https://www.gisthinktank.com/)
 
 #### Email
-qixiang_li2020[at]163.com
+qixiang_li2020@163.com
 
 #### Research Interests
 Geography of Innovation, Mobility, Cities, Complex Networks.
