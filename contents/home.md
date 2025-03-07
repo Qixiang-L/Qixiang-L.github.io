@@ -8,10 +8,9 @@ I am involved in the development of the website: Map of Global Innovation Source
 #### Email
 qixiang_li2020[at]163.com
 
-#### Education
-M.S.,Economic geography and regional innovation, East China Normal University, 2022—2025 (expected).\
-B.S., Physical Geography and Resource Environment, Fujian Normal University, 2018—2022.
-
 #### Research Interests
 Geography of Innovation, Mobility, Cities, Complex Networks.
 
+#### Education
+M.S.,Economic geography and regional innovation, East China Normal University, 2022—2025 (expected).\
+B.S., Physical Geography and Resource Environment, Fujian Normal University, 2018—2022.
