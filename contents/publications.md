@@ -1,4 +1,4 @@
-<img width="1262" height="49" alt="image" src="https://github.com/user-attachments/assets/e1244faf-de90-463b-bd8c-96484fbf2493" />- <strong>Qixiang Li</strong>, Debin Du. et al. (2025), Scaling and Network Evolution of Technology Transfer in US Cities. <strong>Nature Cities</strong> <strong>. https://doi.org/10.1038/s44284-025-00209-x </strong>
+- <strong>Qixiang Li</strong>, Debin Du. et al. (2025), Scaling and Network Evolution of Technology Transfer in US Cities. <strong>Nature Cities</strong> <strong>. https://doi.org/10.1038/s44284-025-00209-x </strong>
 
 - <strong>Qixiang Li</strong>, Debin Du. et al. (2024), Spatiotemporal dynamics and driving mechanisms of US science and technology innovation centers' performance, 1790-2022. <strong>Acta Geographica Sinica.</strong>, 79(8). https://doi.org/10.11821/dlxb202408010
 
