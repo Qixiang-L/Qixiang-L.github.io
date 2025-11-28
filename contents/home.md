@@ -2,7 +2,7 @@
 
 [![Qixiang-L](https://img.shields.io/badge/Qixiang_Li-GitHub-blue)](https://github.com/Qixiang-L/)
 
-I am currently pursuing a Master's degree in Economic Geography at East China Normal University in Shanghai. My research focuses on innovation and complex systems. 
+I am currently pursuing a PhD degree in the Geography of Innovation at East China Normal University in Shanghai. My research focuses on innovation and complex systems. 
 I am involved in the development of the website: Map of Global Innovation Sources (https://www.gisthinktank.com/)
 
 #### Email
